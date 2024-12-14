@@ -1,5 +1,16 @@
 # Changelog
 
+## [2024.12.11](https://github.com/jdx/mise/compare/v2024.12.10..v2024.12.11) - 2024-12-14
+
+### 🐛 Bug Fixes
+
+- **(python)** reduce network usage for python precompiled manifests by [@jdx](https://github.com/jdx) in [#3568](https://github.com/jdx/mise/pull/3568)
+
+### 🔍 Other Changes
+
+- Update comparison-to-asdf.md by [@jdx](https://github.com/jdx) in [e7715c8](https://github.com/jdx/mise/commit/e7715c87811cb30848e3c0475f647ef97e09f7a5)
+- Update task-configuration.md by [@jdx](https://github.com/jdx) in [e3586b7](https://github.com/jdx/mise/commit/e3586b7ee6c47cd1dd8ca4706a7c83d6d4a93857)
+
 ## [2024.12.10](https://github.com/jdx/mise/compare/v2024.12.9..v2024.12.10) - 2024-12-14
 
 ### 🚀 Features
